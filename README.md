@@ -1,0 +1,2 @@
+# GD-Player-For-MP4-Google-Drive-Videos---Openload-JWPlayer-Style-
+GD Player Allows You To Play And Embed Videos With Subtitles, Self-Hosted, MP4, OGG, WebM And YouTube. In Your Post Or Page Using Shortcodes. With (GD Player Pro) You Can Play Also Google Drive Videos with Subtitles. Skins-Two Types Of Player Style You Can Choose Openload Player Style Or JWPlayer Style (Skin) With GD Player You Can Set All Players Colors. GD Player Based On Video-js.
