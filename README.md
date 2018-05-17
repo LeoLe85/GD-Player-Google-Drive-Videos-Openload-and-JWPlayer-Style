@@ -1,4 +1,8 @@
-=== GD Player For MP4 & Google Drive Videos - Openload & JWPlayer ===
+Download GD Player Pro Here https://inGolin.com
+Demo Video Player https://ingolin.com/gd-player-self-hosting-mp4-google-drive-videos-wordpress-plugin/
+
+
+GD Player For MP4 & Google Drive Videos - Openload & JWPlayer
 Contributors: leoluanelezi
 Donate link: https://ingolin.com/
 Tags: GD Player, Video, Player, YouTube, Google Drive, MP4, OGG, WEBM,  Skins, Video.js, JW Player, Responsive, Mobile, iPad,
