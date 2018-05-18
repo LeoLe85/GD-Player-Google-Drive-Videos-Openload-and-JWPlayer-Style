@@ -150,14 +150,5 @@ Yes.
 9. https://ingolin.com/gd-player-update/pluginscreenshot/screenshot8.PNG
 10. https://ingolin.com/gd-player-update/pluginscreenshot/screenshot9.PNG
 
-== Changelog ==
-None 
-
-== Upgrade notice ==
-
-We Need To update GD Player Plugin.
-
-== Arbitrary section 1 ==
-
 == First release ==
  1.1.1
